@@ -1,0 +1,57 @@
+body{
+  background-color: #326597;
+  font-size: 1.4rem;
+  color: #fff999;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.main-title{
+  text-align: center;
+}
+.wraper-content{
+  max-width: 800px;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  margin-left: 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+.more-info{
+  text-decoration: none;
+}
+.more-info:hover{
+  text-decoration: underline;
+}
+.dicription{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.discription-name{
+  margin: 0 10px;
+}
+img{
+  border-radius: 10px;
+}
+
+.link{
+margin-top: 10px;
+}
+
+.more-info{
+  color: #fff;
+  margin: 0 10px;
+}
+
+.specification{
+  padding:0 5px;
+  margin: 0;
+}
+
+ul{
+  margin: 0;
+}
