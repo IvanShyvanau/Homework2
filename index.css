@@ -54,3 +54,25 @@ margin-top: 70px;
 ul{
   margin: 0;
 }
+
+.fotter-content{
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 810px;
+  margin:10px 10px;
+
+}
+
+.footer-title{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-style: normal;
+}
+
+.info-footer{
+  margin-left: 10px;
+  color: #000;
+  font-weight: bold;
+  font-style: italic;
+}
